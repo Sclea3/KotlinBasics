@@ -1,11 +1,4 @@
-
-class Main {
-
-    fun firstTask() {
-
-        var numberOfOrders : Int = 75
-        var gratefulnessText : String = "We are grateful for your purchase"
-    }
+class SecondTask {
 
     fun secondTask() {
         var numberOfOrders : Int = 75
@@ -19,5 +12,5 @@ class Main {
         workersCount = 1999
         println(workersCount)
     }
-
+    
 }
