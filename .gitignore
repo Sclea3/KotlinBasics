@@ -1,0 +1,4 @@
+.idea/
+.gitignore
+gradle.properties
+settings.gradle.kts
