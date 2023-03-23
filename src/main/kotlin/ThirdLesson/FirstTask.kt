@@ -1,6 +1,6 @@
 package ThirdLesson
 
-fun main(){
+fun main() {
     val userName = "Alex"
     var greeting = "Good morning, "
 
